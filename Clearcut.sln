@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearcut.DomainModel", "Clearcut.DomainModel\Clearcut.DomainModel.csproj", "{E6B2CD49-556F-4C8C-8A27-7E60ADB1D513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clearcut.DomainModel.Tests", "Clearcut.DomainModel.Tests\Clearcut.DomainModel.Tests.csproj", "{5D734F4E-D1F7-4D30-BBA6-F435D2421765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B2CD49-556F-4C8C-8A27-7E60ADB1D513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B2CD49-556F-4C8C-8A27-7E60ADB1D513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B2CD49-556F-4C8C-8A27-7E60ADB1D513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B2CD49-556F-4C8C-8A27-7E60ADB1D513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D734F4E-D1F7-4D30-BBA6-F435D2421765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D734F4E-D1F7-4D30-BBA6-F435D2421765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D734F4E-D1F7-4D30-BBA6-F435D2421765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D734F4E-D1F7-4D30-BBA6-F435D2421765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
