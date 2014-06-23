@@ -1,4 +1,5 @@
 ClearCut
 ========
 
-An experiment on how to implement validation for simple domain objects
+An experiment on how to implement validation for view model objects
+
